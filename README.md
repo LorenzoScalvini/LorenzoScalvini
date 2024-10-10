@@ -7,7 +7,7 @@
 ![image](https://i.imgur.com/D7TPXAh.jpeg)
 </p>
 
-##  📝&nbsp; Usefull links, i guess so...
+##  📝&nbsp; Usefull links &rarr;
 <a href=""><img alt="" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> &nbsp;
 <a href=""><img alt="" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a> &nbsp;
 <a href=""><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
@@ -15,18 +15,18 @@
 ### 🪴 &nbsp;About Me / What i do...
 
 - &nbsp; Hello everyone, I'm Lorenzo and i study to be:
-    - &nbsp; A web-designer -Web developer
-    - &nbsp; A Game developer (maybe)
+    - &nbsp; A Web designer -Web developer
+    - &nbsp; A Game developer (one day maybe)
 
-# My Knowledge ->
+# My Knowledge
 
-## Tools i used before >
+## Tools i used before &rarr;
 <a href=""><img alt="" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> &nbsp;
 <a href=""><img alt="" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/></a> &nbsp;
 <a href=""><img alt="" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/></a> &nbsp;
 <a href=""><img alt="" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/></a> &nbsp;
 
-## Languages i've worked with in the past >
+## Languages i've worked with in the past &rarr;
 <a href=""><img alt="" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a> &nbsp;
 <a href=""><img alt="" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/></a> &nbsp;
 <a href=""><img alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp;
