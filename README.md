@@ -15,7 +15,7 @@
 ### 🪴 &nbsp;About Me / What i do...
 
 - &nbsp; Hello everyone, I'm Lorenzo and i study to be:
-    - &nbsp; A Web designer -Web developer
+    - &nbsp; A Web designer - Web developer
     - &nbsp; A Game developer (one day maybe)
 
 # My Knowledge
