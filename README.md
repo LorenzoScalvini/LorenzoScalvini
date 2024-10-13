@@ -15,6 +15,9 @@
 - &nbsp; Hello everyone, I'm Lorenzo and i study to be:
     - &nbsp; A Web designer - Web developer
     - &nbsp; A Game developer (one day maybe)
+## Stuff i want to learn:
+- &nbsp; React & tailwind
+- &nbsp; Mongo DB
 
 ## Programs/Tools & Langages I've used
 
