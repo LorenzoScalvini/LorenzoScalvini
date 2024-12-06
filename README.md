@@ -4,9 +4,7 @@
 
 # Welcome to my Github Profile! 🪴
 
-Ciao! Sono [Il tuo nome], un appassionato di [il tuo settore o area di interesse]. Mi piace creare, imparare e condividere progetti che fanno la differenza.
-
----
+Hi! I'm Lore, a passionate enthusiast of web and game development. I love creating, learning, and sharing projects that make a meaningful impact.
 
 ## 🔧 Languages & framework I've used:
 
@@ -14,9 +12,9 @@ Ciao! Sono [Il tuo nome], un appassionato di [il tuo settore o area di interesse
  
  **General programming**<br><img src="https://skillicons.dev/icons?i=java,cpp,cs,c" /><br>
  
- **Programs**<br><img src="https://skillicons.dev/icons?i=git,github,figma,godot,pr,ps,unity,vscode,eclipse" /><br>
+ **Programs**<br><img src="https://skillicons.dev/icons?i=git,github,figma,godot,pr,ps,unity,vscode,eclipse,notion" /><br>
 
-## 📲 I miei social:
+## 📲 My socials:
 
 **Instagram**: [@il_tuo_username](https://instagram.com/il_tuo_username)
 **Spotify**: [Il tuo Spotify](https://open.spotify.com/user/il_tuo_username)
