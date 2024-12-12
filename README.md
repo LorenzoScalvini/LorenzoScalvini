@@ -21,7 +21,7 @@ Hi! I'm Lore, a passionate enthusiast of web and game development. I love creati
 **LinkedIn**: [Il tuo LinkedIn](https://linkedin.com/in/il-tuo-username)
 **Twitter**: [@il_tuo_handle](https://twitter.com/il_tuo_handle)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/675b2e2decc889bb0d4323cf?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/675b2e2decc889bb0d4323cf?variant=dark&roadmaps=react%2Cjavascript%2Cfrontend%2Cbackend)](https://roadmap.sh)
 
 </div>
 
