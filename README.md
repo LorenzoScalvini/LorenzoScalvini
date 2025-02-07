@@ -1,5 +1,10 @@
 ## Hi, I'm Lorenzo! ⚙️ <br>FullStack Web Developer | React & JavaScript Enthusiast <br><br>- Building projects with React, Vite, and Express.js <br>- Passionate about UI/UX, animations, and creative design <br>- Currently working on my portfolio and side projects <br>
 
+<p align="center">
+  <img src="./banner_github.gif" alt="Portfolio GIF" style="width: 50%; height: auto;" />
+</p>
+
+
 <div align="center" style="margin: 0 400px;">
   
   # 💾 Tech Stack:
