@@ -33,8 +33,8 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="./imgage1.png" width="90%" />
-      <p><strong>Peraonal Portfolio</strong></p>
+      <img src="./image1.png" width="90%" />
+      <p><strong>Personal Portfolio</strong></p>
     </td>
     <td align="center" width="50%">
       <img src="./image2.png" width="90%" />
@@ -62,6 +62,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
