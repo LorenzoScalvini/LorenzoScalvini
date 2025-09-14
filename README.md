@@ -29,3 +29,18 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoScalvini&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="link1.png" width="100px" /></td>
+      <td><img src="link2.png" width="100px" /></td>
+      <td><img src="link3.png" width="100px" /></td>
+    </tr>
+    <tr>
+      <td><img src="link4.png" width="100px" /></td>
+      <td><img src="link5.png" width="100px" /></td>
+      <td><img src="link6.png" width="100px" /></td>
+    </tr>
+  </table>
+</div>
