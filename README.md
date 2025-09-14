@@ -33,7 +33,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="link1.png" width="100px" /></td>
+      <td><img src="./image2.png" width="100px" /></td>
       <td><img src="link2.png" width="100px" /></td>
       <td><img src="link3.png" width="100px" /></td>
     </tr>
@@ -44,3 +44,4 @@
     </tr>
   </table>
 </div>
+
