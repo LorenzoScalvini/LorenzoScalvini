@@ -30,39 +30,38 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoScalvini&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-
-  <div>
-    <img src="./img1.png" width="45%" />
-    <p><strong>Progetto 1</strong></p>
-  </div>
-
-  <div>
-    <img src="./image2.png" width="45%" />
-    <p><strong>Undertale Web Game</strong></p>
-  </div>
-
-  <div>
-    <img src="./img3.png" width="45%" />
-    <p><strong>Progetto 3</strong></p>
-  </div>
-
-  <div>
-    <img src="./img4.png" width="45%" />
-    <p><strong>Progetto 4</strong></p>
-  </div>
-
-  <div>
-    <img src="./img5.png" width="45%" />
-    <p><strong>Progetto 5</strong></p>
-  </div>
-
-  <div>
-    <img src="./img6.png" width="45%" />
-    <p><strong>Progetto 6</strong></p>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./imgage1.png" width="90%" />
+      <p><strong>Peraonal Portfolio</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="./image2.png" width="90%" />
+      <p><strong>Undertale Web Game</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./img3.png" width="90%" />
+      <p><strong>Progetto 3</strong></p>
+    </td>
+    <td align="center">
+      <img src="./img4.png" width="90%" />
+      <p><strong>Progetto 4</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./img5.png" width="90%" />
+      <p><strong>Progetto 5</strong></p>
+    </td>
+    <td align="center">
+      <img src="./img6.png" width="90%" />
+      <p><strong>Progetto 6</strong></p>
+    </td>
+  </tr>
+</table>
 
 
 
