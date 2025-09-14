@@ -31,17 +31,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoScalvini&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="./image2.png" width="100px" /></td>
-      <td><img src="link2.png" width="100px" /></td>
-      <td><img src="link3.png" width="100px" /></td>
-    </tr>
-    <tr>
-      <td><img src="link4.png" width="100px" /></td>
-      <td><img src="link5.png" width="100px" /></td>
-      <td><img src="link6.png" width="100px" /></td>
-    </tr>
-  </table>
+  <img src="./img1.png" width="30%" />
+  <img src="./image2.png" width="30%" />
+  <img src="./img3.png" width="30%" />
+  <br/>
+  <img src="./img4.png" width="30%" />
+  <img src="./img5.png" width="30%" />
+  <img src="./img6.png" width="30%" />
 </div>
+
 
